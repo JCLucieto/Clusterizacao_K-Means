@@ -14,11 +14,11 @@ Este projeto é destinado a uma empresa do setor de consultoria e marketing, com
 
 Todos os arquivos do projeto estão disponibilizados.
 
-- dados_mkt.csv           – Arquivo .csv com os dados utilizados para criação do modelo.
-- requirements.txt        – Arquivo com todas as bibliotecas utilizadas no projeto (notebook  e app).
+- dados_mkt.csv – Arquivo .csv com os dados utilizados para criação do modelo.
+- requirements.txt – Arquivo com todas as bibliotecas utilizadas no projeto (notebook e app).
 - Projeto_marketing.ipynb – Jupyter Notebook com todo o processo de criação do modelo.
-- encoder.pkl             – Arquivo com a codificação das colunas categóricas dos dados utilizados para criação do modelo
-- scaler.pkl              – Arquivo com a normalização dos dados utilizados para criação do modelo
-- kmeans.pkl              – modelo criado
-- App.py                  -   Aplicação Python Streamlit
-- novas_entradas.csv      – Arquivo CSV com novos dados para agrupamento (utilizar no app Streamlit)
+- encoder.pkl – Arquivo com a codificação das colunas categóricas dos dados utilizados para criação do modelo.
+- scaler.pkl – Arquivo com a normalização dos dados utilizados para criação do modelo
+- kmeans.pkl – Modelo criado.
+- App.py - Aplicação Python Streamlit.
+- novas_entradas.csv – Arquivo CSV com novos dados para agrupamento (utilizar no app Streamlit).
